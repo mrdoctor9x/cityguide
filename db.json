@@ -1,7 +1,7 @@
 {
   "details": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Gramercy Tavern",
       "category":1,
       "address":"42 E 20th St",
@@ -12,7 +12,7 @@
       "email":"contact@bluehill.com"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Blue Hill",
       "category":1,
       "address":"75 Washington Pl",
